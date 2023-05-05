@@ -1,0 +1,11 @@
+[05.05.2023 13:32:37] Start Game
+[05.05.2023 13:32:41] LoadScene GameScene
+[05.05.2023 13:32:42] OnPointerClick to Gate
+[05.05.2023 13:32:42] Open NPCUI
+[05.05.2023 13:32:42] Open  GateUI
+[05.05.2023 13:32:43] OnPointerClick to Gate
+[05.05.2023 13:32:43] Open NPCUI
+[05.05.2023 13:32:43] Open  GateUI
+[05.05.2023 13:32:45] Close NPCUI
+[05.05.2023 13:32:45] Close  GateUI
+[05.05.2023 13:32:48] Exit Game
